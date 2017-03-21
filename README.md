@@ -1,18 +1,19 @@
 # url-shortener-service-comparison
 URL Shortener Matrix Chart Comparison
-quick comparison including the following services:
+Quick comparison including the following services:
 <ul>
-<li>https://adf.ly</li>
-http://linkbucks.com
-https://shorte.st
-https://coinurl.com
-http://adfoc.us
-https://linkshrink.net
-http://ouo.io
-https://fas.li/
-http://uskip.me/
-https://adyou.me/
-http://www.spaste.com
-http://www.binbucks.com
-https://blv.me
+  <li>https://adf.ly</li>
+  <li><http://linkbucks.com</li>
+  <li>https://shorte.st</li>
+  <li>https://coinurl.com</li>
+  <li>http://adfoc.us</li>
+  <li>https://linkshrink.net</li>
+  <li>http://ouo.io</li>
+  <li>https://fas.li</li>
+  <li>http://uskip.me</li>
+  <li>https://adyou.me</li>
+  <li>http://www.spaste.com</li>
+  <li>http://www.binbucks.com</li>
+  <li>https://blv.me</li>
 </ul>
+W'll add more services in the future. feel free to PR for updates.
