@@ -3,7 +3,7 @@ URL Shortener Matrix Chart Comparison
 Quick comparison including the following services:
 <ul>
   <li>https://adf.ly</li>
-  <li><http://linkbucks.com</li>
+  <li>http://linkbucks.com</li>
   <li>https://shorte.st</li>
   <li>https://coinurl.com</li>
   <li>http://adfoc.us</li>
